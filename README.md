@@ -14,6 +14,8 @@ As mentioned earlier a demo....
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review
+
 ### Copyright 
 
 2021 Git.Training.
